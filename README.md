@@ -9,9 +9,9 @@
 
   <br />
 I am a passionate and experienced game developer with over 9 years of remote work experience. 
-I specialize in creating engaging and immersive gaming experiences using Unity, focusing on both 2D and 3D game development.
+I specialize in creating engaging and immersive gaming experiences using Unity and UE, focusing on both 2D and 3D game development.
 
-Throughout my career, I’ve successfully delivered a variety of projects, leveraging technologies like C#, Unity LTS, and modern design principles to craft games that are both visually stunning and highly functional. 
+Throughout my career, I’ve successfully delivered a variety of projects, leveraging technologies like C#, C++, Unity LTS, UE LTS, and modern design principles to craft games that are both visually stunning and highly functional. 
 I excel at transforming creative ideas into polished, interactive experiences for players across multiple platforms.
 
  <div>
